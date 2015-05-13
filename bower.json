@@ -1,0 +1,10 @@
+{
+  "name": "ghpages-workflow",
+  "version": "1.0.0",
+  "homepage": "https://github.com/SimoneGonzalez/ghpages-workflow",
+  "authors": [
+    "Simone Gonzalez <simone.b.gonzalez@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT"
+}
